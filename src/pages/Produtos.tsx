@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react'
-import { PageHead } from '../components'
+import { PageHead, type Product } from '../components'
 import { waLink } from '../site'
 import catalog from '../data/catalog.json'
 
@@ -7,13 +7,13 @@ const brands = ['Todos', ...new Set(catalog.products.map((p) => p.brand))]
 
 export default function Produtos() {
   const [brand, setBrand] = useState('Todos')
-  const [current, setCurrent] = useState(null)
-  const dialog = useRef(null)
+  const [current, setCurrent] = useState<Product | null>(null)
+  const dialog = useRef<HTMLDialogElement>(null)
   const list = brand === 'Todos' ? catalog.products : catalog.products.filter((p) => p.brand === brand)
 
-  function open(p) {
+  function open(p: Product) {
     setCurrent(p)
-    dialog.current.showModal()
+    dialog.current?.showModal()
   }
 
   return (
@@ -45,7 +45,7 @@ export default function Produtos() {
       <dialog className="modal" ref={dialog} onClick={(e) => e.target === dialog.current && dialog.current.close()}>
         {current && (
           <div className="modal__body">
-            <button className="modal__close" aria-label="Fechar" onClick={() => dialog.current.close()}>×</button>
+            <button className="modal__close" aria-label="Fechar" onClick={() => dialog.current?.close()}>×</button>
             <div className="modal__img"><img src={current.img || '/img/logo.png'} alt={current.name} /></div>
             <div>
               <span className="product__brand">{current.brand}</span>

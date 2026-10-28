@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, type FormEvent } from 'react'
 import { PageHead } from '../components'
 import { ADDRESS, COMERCIAL_EMAIL, PHONE, SAC_EMAIL, telLink, waLink } from '../site'
 
@@ -8,11 +8,11 @@ export default function Contato() {
   const [tab, setTab] = useState('SAC')
   const comercial = tab === 'Comercial'
 
-  function submit(e) {
+  function submit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
-    const d = Object.fromEntries(new FormData(e.currentTarget))
+    const d = Object.fromEntries(new FormData(e.currentTarget)) as Record<string, string>
     const body = [`Nome: ${d.name}`, `Email: ${d.email}`, comercial && `Telefone: ${d.phone}`, comercial && `CNPJ: ${d.cnpj}`, `Setor: ${d.sector}`, '', d.message]
-      .filter((l) => l !== false).join('\n')
+      .filter((l) => typeof l === 'string').join('\n')
     // shortcut: opens the visitor's mail client, no backend; swap for a form endpoint when one exists
     window.location.href = `mailto:${comercial ? COMERCIAL_EMAIL : SAC_EMAIL}?subject=${encodeURIComponent(`[${tab}] Contato pelo site`)}&body=${encodeURIComponent(body)}`
   }
@@ -43,7 +43,7 @@ export default function Contato() {
                 {sectors.map((s) => <option key={s}>{s}</option>)}
               </select>
             </label>
-            <label>Mensagem<textarea name="message" rows="5" required /></label>
+            <label>Mensagem<textarea name="message" rows={5} required /></label>
             <button className="btn btn--primary" type="submit">Enviar</button>
           </form>
 

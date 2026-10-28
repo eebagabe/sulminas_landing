@@ -7,5 +7,5 @@ export const PORTAL_URL = 'https://laticiniosprime169481.datasul.cloudtotvs.com.
 export const INSTAGRAM_URL = 'https://www.instagram.com/sulminas_laticinios'
 export const LINKEDIN_URL = 'https://www.linkedin.com/company/sulminas-latic%C3%ADnios/?originalSubdomain=br'
 
-export const waLink = (text) => `https://wa.me/${WHATSAPP}${text ? `?text=${encodeURIComponent(text)}` : ''}`
-export const telLink = (phone) => `tel:+55${phone.replace(/\(.*?[a-zA-Z].*?\)/g, '').replace(/\D/g, '')}`
+export const waLink = (text?: string) => `https://wa.me/${WHATSAPP}${text ? `?text=${encodeURIComponent(text)}` : ''}`
+export const telLink = (phone: string) => `tel:+55${phone.replace(/\(.*?[a-zA-Z].*?\)/g, '').replace(/\D/g, '')}`

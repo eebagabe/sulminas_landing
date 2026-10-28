@@ -1,15 +1,18 @@
-import { useState } from 'react'
+import { useState, type FormEvent, type ReactNode } from 'react'
 import { waLink } from './site'
 import catalog from './data/catalog.json'
 
+export type Product = (typeof catalog.products)[number]
+export type Recipe = (typeof catalog.recipes)[number]
+
 const segments = ['Restaurante / Pizzaria / Lanchonete', 'Padaria', 'Indústria alimentícia', 'Atacado / Distribuidor', 'Varejo / Supermercado', 'Outro']
 
-export function LeadForm({ title = 'Receba uma proposta', product }) {
+export function LeadForm({ title = 'Receba uma proposta', product }: { title?: string; product?: string }) {
   const [sent, setSent] = useState(false)
 
-  function submit(e) {
+  function submit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
-    const d = Object.fromEntries(new FormData(e.currentTarget))
+    const d = Object.fromEntries(new FormData(e.currentTarget)) as Record<string, string>
     // shortcut: lead goes straight to WhatsApp, no CRM/backend; plug an endpoint here when one exists
     const msg = [
       'Olá! Quero receber uma proposta da SulMinas.',
@@ -20,7 +23,7 @@ export function LeadForm({ title = 'Receba uma proposta', product }) {
       `Segmento: ${d.segment}`,
       `Cidade: ${d.city}`,
       `WhatsApp: ${d.phone}`,
-    ].filter((l) => l !== undefined && l !== false).join('\n')
+    ].filter((l) => typeof l === 'string').join('\n')
     window.open(waLink(msg), '_blank', 'noopener')
     setSent(true)
   }
@@ -58,7 +61,7 @@ export function LeadForm({ title = 'Receba uma proposta', product }) {
   )
 }
 
-export function PageHead({ eyebrow, title, children }) {
+export function PageHead({ eyebrow, title, children }: { eyebrow: string; title: string; children?: ReactNode }) {
   return (
     <section className="page-head">
       <div className="wrap">
@@ -78,7 +81,7 @@ export function StoreLogos() {
   )
 }
 
-export function RecipeCard({ r }) {
+export function RecipeCard({ r }: { r: Recipe }) {
   return (
     <a className="recipe" href={r.url} target="_blank" rel="noopener">
       <div className="recipe__img"><img src={r.img} alt="" loading="lazy" /></div>

@@ -4,8 +4,7 @@ import { regions } from '../data/representantes'
 import { ADDRESS, COMERCIAL_EMAIL, PHONE, telLink, waLink } from '../site'
 
 export default function Representantes() {
-  const [region, setRegion] = useState(regions[0].region)
-  const current = regions.find((r) => r.region === region)
+  const [current, setCurrent] = useState(regions[0])
 
   return (
     <>
@@ -16,7 +15,7 @@ export default function Representantes() {
         <div className="wrap">
           <div className="chips" role="tablist">
             {regions.map((r) => (
-              <button key={r.region} role="tab" aria-selected={r.region === region} className={r.region === region ? 'chip is-active' : 'chip'} onClick={() => setRegion(r.region)}>{r.region}</button>
+              <button key={r.region} role="tab" aria-selected={r === current} className={r === current ? 'chip is-active' : 'chip'} onClick={() => setCurrent(r)}>{r.region}</button>
             ))}
           </div>
           <div className="reps">

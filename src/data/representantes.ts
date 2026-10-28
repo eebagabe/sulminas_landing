@@ -1,7 +1,10 @@
 // Fonte: sulminaslaticinios.com.br/encontre-um-representante (cópia fiel)
+export type Rep = { area: string; name: string; phones: string[]; emails: string[] }
+export type Region = { region: string; states: { state: string; reps: Rep[] }[] }
+
 const comercial = { name: 'Área Comercial', phones: ['(11) 2842-5300', '(11) 9 4229-7284 (WhatsApp)'], emails: ['comercial@queijosroseli.com.br'] }
 
-export const regions = [
+export const regions: Region[] = [
   {
     region: 'Norte',
     states: [
