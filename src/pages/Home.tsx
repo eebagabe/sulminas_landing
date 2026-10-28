@@ -27,9 +27,9 @@ export default function Home() {
               <li>Entrega pontual em todo o Brasil</li>
               <li>Indústria, atacado e food service</li>
             </ul>
-            <img className="hero__img" src="/img/Banner-so-produtos-Projeto-Sul-Minas.png" alt="Linha de produtos SulMinas, Roseli e R.Minas" />
           </div>
           <LeadForm />
+          <img className="hero__img" src="/img/Banner-so-produtos-Projeto-Sul-Minas.png" alt="Linha de produtos SulMinas, Roseli e R.Minas" />
         </div>
       </section>
 
