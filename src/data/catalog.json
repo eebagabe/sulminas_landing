@@ -1,0 +1,385 @@
+{
+ "products": [
+  {
+   "brand": "Roseli",
+   "name": "Requeijão Cremoso Roseli 1,5Kg (Bisnaga)",
+   "desc": "O Requeijão Cremoso Roseli 1,5kg (Bisnaga) da linha profissional é a escolha perfeita para cozinhas comerciais que buscam praticidade e qualidade. Sua embalagem em formato de bisnaga permite fácil manuseio e aplicação direta, facilitando o preparo e a finalização de pratos. Com textura cremosa e sabor suave, esse requeijão é ideal para uma ampla variedade de receitas, como pizzas, salgados, molhos, sanduíches e recheios. Desenvolvido para atender às necessidades do segmento gastronômico, ele garante consistência e rendimento, proporcionando o toque especial que suas criações merecem. Alérgicos: Contém leite e derivados do leite. Contém lactose. Não contém glúten.",
+   "img": "/img/produtos/WhatsApp-Image-2024-11-11-at-9.52.14-AM.jpeg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Requeijão Cremoso Sabor Cheddar Roseli 1,2Kg (Bisnaga)",
+   "desc": "O Requeijão Cremoso Sabor Cheddar Roseli 1,2kg (Bisnaga) da linha profissional é ideal para estabelecimentos que buscam praticidade e sabor diferenciado em suas receitas. Com textura cremosa e sabor marcante de cheddar, esse requeijão é perfeito para dar um toque especial a lanches, hambúrgueres, hot-dogs, molhos e outros pratos. A embalagem em bisnaga facilita a aplicação direta, otimizando o tempo de preparo e garantindo o controle de porções. Desenvolvido para o segmento gastronômico, oferece qualidade e rendimento, tornando-se uma escolha versátil e prática para suas criações culinárias. Alérgicos: Contém leite e derivados do leite. Contém lactose. Não contém glúten.",
+   "img": "/img/produtos/requeijao-cremoso-sabor-cheddar-roseli.webp"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Requeijão Cremoso Roseli 180g (Copo)",
+   "desc": "O Requeijão Cremoso Roseli 180g (Copo) é uma opção versátil e prática para quem deseja adicionar o sabor suave e aveludado às suas receitas. Ideal para o preparo de molhos, pastas, patês, recheios e sobremesas, esse requeijão é fácil de manusear e oferece excelente rendimento. Sua embalagem em pote de 180g é perfeita para uso doméstico, permitindo uma dosagem precisa e mantendo a qualidade do produto. Com o Requeijão Cremoso Roseli, suas receitas ganham um toque especial e sofisticado de forma simples e prática. Alérgicos : Contém leite, derivados do leite e derivados de soja. Não contém glúten.",
+   "img": "/img/produtos/roseli-2-1.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Roseli 4 Queijos 1,8kg (Bisnaga)",
+   "desc": "Esta versão em maior quantidade do creme 4 queijos oferece o equilíbrio perfeito entre diferentes tipos de queijos, ideal para uso em estabelecimentos ou para quem deseja praticidade em casa, sem perder a qualidade. Alérgicos : Contém leite, derivados do leite e derivados de soja. Não contém glúten.",
+   "img": "/img/produtos/roseli-5.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Sabor Cheddar Roseli 200g (Copo)",
+   "desc": "O Cheddar Roseli de 200g é um Cobertura Cremosa Culinária Sabor Cheddar de sabor intenso, ideal para acompanhar sanduíches, nachos e molhos. Com uma textura suave, ele combina praticidade com um sabor marcante de cheddar. Contém leite e derivados, além de soja. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/roseli-3-1.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Roseli 4 Queijos 250g (Bisnaga)",
+   "desc": "Creme de Sabor 4 queijos em bisnaga proporciona a combinação perfeita de sabores para gratinados, molhos e sanduíches. Seu sabor autêntico resulta da mistura de queijos cuidadosamente selecionados, prontos para serem utilizados em diferentes receitas. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/roseli-10.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Sabor Requeijão Roseli 400g (Bisnaga)",
+   "desc": "A bisnaga Roseli de 400g oferece um sabor e é ideal para quem busca praticidade na cozinha. Perfeito para lanches rápidos ou como ingrediente em preparações de massas e molhos. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/roseli-7.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Sabor Requeijão Roseli 1,8kg (Bisnaga)",
+   "desc": "Este requeijão cremoso é uma excelente escolha para estabelecimentos comerciais que buscam um produto de alta qualidade sem gordura trans. Ideal para recheios, pizzas e outras preparações. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/roseli-6.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Sabor Cheddar Roseli 400g (Bisnaga)",
+   "desc": "Com uma textura cremosa e um sabor encorpado de cheddar, esta bisnaga é perfeita para espalhar em pães, usar como cobertura ou incrementar receitas. O formato em bisnaga facilita o uso no dia a dia. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/roseli-1.jpg"
+  },
+  {
+   "brand": "Roseli",
+   "name": "Cobertura Cremosa Sabor Cheddar Roseli 1,2kg (Bisnaga)",
+   "desc": "Com uma textura cremosa e um sabor encorpado de cheddar, esta bisnaga é perfeita para espalhar em pães, usar como cobertura ou incrementar receitas. O formato em bisnaga facilita o uso no dia a dia. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/roseli-9.jpg"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Creme Culinário Sabor Cream Cheese Sulminas 1,2kg (Bisnaga)",
+   "desc": "O Sulminas 1,2kg é um produto prático e econômico, desenvolvido para atender grandes demandas em estabelecimentos comerciais, como restaurantes, padarias e lanchonetes. Com uma formulação, ele oferece uma textura cremosa e um sabor suave, sendo ideal para preparações como recheios, coberturas de pizzas, sanduíches e outras receitas culinárias. O formato em bisnaga de 1,2kg garante uma excelente relação custo-benefício para quem precisa de grandes quantidades com a mesma qualidade. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/sul-minas-9.png"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Creme Culinário Sabor Cream Cheese Sulminas 170g (Pote)",
+   "desc": "O Creme Culinário Sabor Cream Cheese Sulminas 170g (Pote) é uma opção versátil e prática para quem deseja adicionar o sabor suave e aveludado do cream cheese às suas receitas. Ideal para o preparo de molhos, pastas, patês, recheios e sobremesas, esse creme culinário é fácil de manusear e oferece excelente rendimento. Sua embalagem em pote de 170g é perfeita para uso doméstico, permitindo uma dosagem precisa e mantendo a qualidade do produto. Com o Creme Culinário Sulminas, suas receitas ganham um toque especial e sofisticado de forma simples e prática. NÃO CONTÉM GLÚTEN. Alérgicos: Contém leite, derivados do leite e derivados de soja. Contém lactose. Informação Nutricional (por porção de 30g): Valor energético: 79 kcal Carboidratos: 2,2 g Açúcares totais: 2,0 g Proteínas: 2,0 g Gorduras totais: 6,9 g Gorduras saturadas: 3,9 g Sódio: 144 mg",
+   "img": "/img/produtos/sul-minas-8.jpg"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Cobertura Cremosa Sabor Requeijão Sulminas 250g (Bisnaga)",
+   "desc": "Com zero gordura trans, esta Cobertura Cremosa Culinária Sabor Requeijão é ideal para quem busca sabor e qualidade sem comprometer a saúde. É perfeito para uso em receitas ou para consumo diário. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/sul-minas-4.jpg"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Cobertura Cremosa Sabor Requeijão Sulminas 1,8kg (Bisnaga)",
+   "desc": "Ideal para grandes estabelecimentos, o requeijão Sulminas em bisnaga de 1,8kg garante a cremosidade e o sabor característicos do produto, com a vantagem de ser zero trans. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/sulminas-requeijao-1-8kg.webp"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Cobertura Cremosa Sabor Requeijão Tradicional 1,8kg (Bisnaga)",
+   "desc": "A Bisnaga Tradicional de 1.8kg é a escolha ideal para estabelecimentos comerciais e cozinhas domésticas que procuram um produto saboroso e versátil. Com uma fórmula, ele proporciona uma textura cremosa e um sabor suave, perfeito para o preparo de diversas receitas, como molhos, patês, recheios, sanduíches e pratos gratinados. A nova fórmula, agora sem margarina, traz óleo refinado de soja e antioxidantes, garantindo ainda mais qualidade e praticidade para o uso diário. Esse requeijão é a combinação perfeita de sabor e consistência para dar um toque especial às suas criações culinárias. NÃO CONTÉM GLÚTEN. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose. Informação Nutricional (por porção de 30g): Valor energético: 25 kcal Carboidratos: 3,9 g Açúcares totais: 0,7 g Gorduras totais: 1,0 g Gorduras saturadas: 0,2 g Sódio: 162 mg",
+   "img": "/img/produtos/sul-minas-7.jpg"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Cobertura Cremosa Sabor Requeijão Sulminas 3,6kg (Bisnaga)",
+   "desc": "Este Requeijão Cremoso de 3.6kg é ideal para uso em estabelecimentos comerciais que buscam um produto versátil e de alta qualidade. Com uma fórmula atualizada e zero gordura trans, é perfeito para preparar uma variedade de receitas, como molhos, patês, recheios e lanches. A textura cremosa e o sabor suave oferecem uma experiência deliciosa e prática, sendo uma ótima opção para incrementar pratos no dia a dia. NÃO CONTÉM GLÚTEN.",
+   "img": "/img/produtos/sul-minas-1-1.jpg"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Cobertura Cremosa Sabor Requeijão Sulminas 200g (Copo)",
+   "desc": "Cobertura Cremosa Culinária Sabor Requeijão Sulminas é ideal para o café da manhã ou para ser utilizado em receitas, como massas e molhos. Possui um sabor suave e uma textura cremosa que agrada a todos. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/sul-minas-3.jpg"
+  },
+  {
+   "brand": "SulMinas",
+   "name": "Cobertura Cremosa Sabor Requeijão Light Sulminas 200g (Copo)",
+   "desc": "Com menos calorias, a Cobertura Cremosa Culinária Sabor Requeijão Sulminas oferece a mesma cremosidade do requeijão tradicional, mas com menor teor de gordura, ideal para quem busca uma alimentação mais equilibrada. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/sul-minas-2.jpg"
+  },
+  {
+   "brand": "R.Minas",
+   "name": "Cobertura Cremosa Sabor Cheddar R.Minas 1,2kg (Bisnaga)",
+   "desc": "A Bisnaga R. MINAS Cheddar de 1,2kg é uma excelente opção para estabelecimentos que buscam uma cobertura cremosa sabor cheddar cremoso e prático para uso em lanches, sanduíches, molhos e outras receitas. Com uma formulação zero gordura trans, oferece um sabor marcante de cheddar e uma textura suave que facilita sua aplicação. Ideal para lanchonetes, pizzarias e restaurantes, é um produto versátil que agrega sabor a diversas preparações. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/cobertura-01.jpg"
+  },
+  {
+   "brand": "R.Minas",
+   "name": "Cobertura Cremosa Sabor Requeijão R.Minas 1,8kg (Bisnaga)",
+   "desc": "Para uso em comércio, como restaurantes, pizzarias e lanchonetes, que utilizam cobertura cremosa em suas preparações em larga escala. Com uma fórmula sem gordura trans, esse produto oferece um sabor autêntico de requeijão com toque de queijo parmesão, ideal para recheios, coberturas e outras receitas culinárias que exigem uma textura cremosa e consistente. Seu grande formato garante uma excelente relação custo-benefício para o uso profissional. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/cobertura-02.jpg"
+  },
+  {
+   "brand": "R.Minas",
+   "name": "Cobertura Cremosa Sabor Requeijão R.Minas 1,5kg (Bisnaga)",
+   "desc": "Para uso em comércio, como restaurantes, pizzarias e lanchonetes, que utilizam cobertura cremosa em suas preparações em larga escala. Com uma fórmula sem gordura trans, esse produto oferece um sabor autêntico de requeijão com toque de queijo parmesão, ideal para recheios, coberturas e outras receitas culinárias que exigem uma textura cremosa e consistente. Seu grande formato garante uma excelente relação custo-benefício para o uso profissional. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/cobertura-03.jpg"
+  },
+  {
+   "brand": "R.Minas",
+   "name": "Cobertura Cremosa Sabor Requeijão R.Minas 200g (Copo)",
+   "desc": "A cobertura cremosa sabor Requeijão R.Minas Tradicional de 200g é um produto clássico e versátil, ideal para o consumo diário no café da manhã ou em lanches rápidos. Com uma textura cremosa e um sabor suave de requeijão, é perfeito para espalhar em pães, torradas ou utilizar em diversas receitas, como molhos e recheios. A embalagem prática de 200g torna-o fácil de manusear e ideal para o uso doméstico. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/cobertura-04.jpg"
+  },
+  {
+   "brand": "Milk",
+   "name": "Cobertura Cremosa Sabor Requeijão Milk Ouro 1,8kg (Bisnaga)",
+   "desc": "A Bisnaga Milk Ouro de 1,8kg é um produto especialmente desenvolvido para atender a demanda de grandes estabelecimentos, como restaurantes, padarias e pizzarias, que precisam de um produto prático e de alta qualidade. Sua formulação zero gordura trans oferece um sabor de requeijão, ideal para recheios, coberturas e outras preparações culinárias. A Bisnaga Milk Ouro proporciona uma textura suave e fácil aplicação, tornando-a indispensável para quem busca combinar praticidade e sabor em grande escala. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/milk-ouro.jpg"
+  },
+  {
+   "brand": "Milk",
+   "name": "Cobertura Cremosa Sabor Requeijão Milk Pizza 1,5kg (Bisnaga)",
+   "desc": "A Bisnaga Milk Pizza de 1,5kg é uma escolha prática e versátil, ideal para uso em pizzarias, restaurantes ou até em casa para quem deseja incrementar suas receitas. Com uma fórmula sem gordura trans, o produto oferece um sabor autêntico e equilibrado de requeijão e queijo parmesão, perfeito para recheios, coberturas de pizza e outras preparações culinárias. Sua textura cremosa e seu fácil manuseio fazem da bisnaga uma excelente opção para quem busca praticidade sem abrir mão da qualidade. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/milk-pizza.png"
+  },
+  {
+   "brand": "Milk",
+   "name": "Cobertura Cremosa Sabor Requeijão Milk Prata 1,8kg (Bisnaga)",
+   "desc": "A Bisnaga Milk Prata de 1,8 kg é um creme de sabor requeijão, ideal para diversas preparações culinárias, como recheios e coberturas. Sua fórmula Zero Gordura Trans oferece uma opção mais saudável para o consumo diário. É composta por ingredientes cuidadosamente selecionados, como água, amido modificado, óleo de soja e leite desnatado em pó, proporcionando uma textura cremosa e sabor suave. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose.",
+   "img": "/img/produtos/milk-prata.jpg"
+  },
+  {
+   "brand": "Raio de Luz",
+   "name": "Copo Raio de Luz 200g",
+   "desc": "O Copo Raio de Luz de 200g é um produto cremoso e versátil, ideal para quem busca sabor e praticidade no dia a dia. Seu sabor suave de requeijão, combinado com uma textura aveludada, é perfeito para acompanhar pães, torradas ou ser utilizado em diversas receitas culinárias, como recheios e molhos. Ingredientes : Água, óleo refinado de soja (Agrobacterium tumefaciens e Bacillus thuringiensis), massa láctea, creme de leite, amido modificado, soro de leite em pó, maltodextrina, condimento preparado sabor requeijão (aroma sintético idêntico ao natural, antiumectante INS 554), sal, aroma idêntico ao natural de queijo parmesão, espessantes (INS 466, INS 415, INS 412), estabilizantes (INS 450i, INS 452i, INS 454i), antiespumante INS 471, conservante INS 202, acidulante INS 330 e antioxidante INS 322. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose. Informação Nutricional (por porção de 30g): Valor energético: 244 kcal Carboidratos: 7.7 g Açúcares totais: 4.3 g Gorduras totais: 6.1 g Sódio: 541 mg",
+   "img": "/img/produtos/raio-de-sol2-scaled.jpg"
+  },
+  {
+   "brand": "Raio de Luz",
+   "name": "Raio de Luz (1,2kg Zero Trans)",
+   "desc": "Uma bisnaga prática de 1,2kg com sabor cheddar, ideal para uso em receitas variadas, proporcionando uma textura cremosa e sabor autêntico. Ingredientes : Água, amido modificado, óleo refinado de soja (Agrobacterium tumefaciens e Bacillus thuringiensis), condimento preparado sabor queijo cheddar (aroma sintético idêntico ao natural, antiumectante dióxido de silício), soro de leite em pó, maltodextrina, sal, leite desnatado em pó, estabilizantes (INS 466, INS 407, INS 412, INS 415), corante INS 160b, conservante INS 202, antiespumante INS 471, acidulante INS 330, antioxidante INS 322. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose. Informação Nutricional (por porção de 30g): Valor energético: 82 kcal Carboidratos: 13 g Açúcares totais: 2.3 g Gorduras totais: 3.3 g Sódio: 541 mg",
+   "img": "/img/produtos/raio-de-luz1-1-e1727364126865.png"
+  },
+  {
+   "brand": "Raio de Luz",
+   "name": "Bisnaga Raio de Luz 1,2kg",
+   "desc": "Versão maior da bisnaga de 1,2kg, prática para uso em cozinhas comerciais ou residenciais. Ingredientes : Água, amido modificado, óleo refinado de soja (Agrobacterium tumefaciens e Bacillus thuringiensis), condimento preparado sabor queijo cheddar (aroma sintético idêntico ao natural, antiumectante dióxido de silício), soro de leite em pó, maltodextrina, sal, leite desnatado em pó, estabilizantes (INS 466, INS 407, INS 412, INS 415), corante INS 160b, conservante INS 202, antiespumante INS 471, acidulante INS 330, antioxidante INS 322. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose. Informação Nutricional (por porção de 30g): Valor energético: 82 kcal Carboidratos: 13 g Açúcares totais: 2.3 g Gorduras totais: 3.3 g Sódio: 541 mg",
+   "img": "/img/produtos/raio-de-luz2-scaled-e1727364518635.jpg"
+  },
+  {
+   "brand": "Raio de Luz",
+   "name": "Bisnaga Raio de Luz 1,8kg",
+   "desc": "Versão maior da bisnaga de 1,2kg, com o mesmo sabor cheddar, prática para uso em cozinhas comerciais. Ingredientes : Água, amido modificado, óleo refinado de soja (Agrobacterium tumefaciens e Bacillus thuringiensis), soro de leite em pó, maltodextrina, sal, leite desnatado em pó, condimento preparado sabor requeijão (aroma sintético idêntico ao natural, antiumectante dióxido de silício), aroma idêntico ao natural de queijo parmesão, estabilizantes (INS 466, INS 407, INS 412, INS 415), conservante INS 202, antiespumante INS 471, acidulante INS 330 e antioxidante INS 322. Alérgicos : Contém leite, derivados do leite e derivados de soja. Contém lactose. Informação Nutricional (por porção de 30g): Valor energético: 83 kcal Carboidratos: 13 g Açúcares totais: 2.8 g Gorduras totais: 3.3 g Sódio: 541 mg",
+   "img": null
+  }
+ ],
+ "recipes": [
+  {
+   "title": "Mini Cheesecake de Creme Culinário Sabor Cream Cheese Sulminas com Geleia de Frutas Vermelhas",
+   "url": "https://sulminaslaticinios.com.br/mini-cheesecake-de-creme-culinario-sabor-cream-cheese-sulminas-com-geleia-de-frutas-vermelhas/",
+   "img": "/img/receitas/Mini-Cheesecake-de-Creme-Culinario-Sabor-Cream-Cheese-Sulminas-com-Geleia-de-Frutas-Vermelhas.webp"
+  },
+  {
+   "title": "Wrap Quente de Carne com Molho de Requeijão Cremoso Sabor Cheddar Roseli e Pimenta Suave",
+   "url": "https://sulminaslaticinios.com.br/wrap-quente-de-carne-com-molho-de-requeijao-cremoso-sabor-cheddar-roseli-e-pimenta-suave/",
+   "img": "/img/receitas/Wrap-Quente-de-Carne-com-Molho-de-Requeijao-Cremoso-Sabor-Cheddar-Roseli-.webp"
+  },
+  {
+   "title": "Fondue Cremoso de Queijos para Dois",
+   "url": "https://sulminaslaticinios.com.br/fondue-cremoso-de-queijos-para-dois/",
+   "img": "/img/receitas/Fondue-Cremoso-de-Queijos-para-Dois-com-Requeijao-Cremoso-Roseli-Requeijao-Cremoso-Sabor-Cheddar-Roseli-e-Creme-Culinario-Sabor-Cream-Cheese-Sulminas.webp"
+  },
+  {
+   "title": "Torta Rústica de calabresa com Cobertura Cremosa Sabor Requeijão Sulminas e Crosta Crocante",
+   "url": "https://sulminaslaticinios.com.br/torta-rustica-de-calabresa-com-cobertura-cremosa-sabor-requeijao-sulminas-e-crosta-crocante/",
+   "img": "/img/receitas/Torta-Rustica-de-calabresa-com-Cobertura-Cremosa-Sabor-Requeijao-Sulminas_-e-Crosta-Crocante.webp"
+  },
+  {
+   "title": "Creme de Batata com Toque de Requeijão cremoso sabor cheddar Roseli",
+   "url": "https://sulminaslaticinios.com.br/creme-de-batata-com-toque-de-requeijao-cremoso-sabor-cheddar-roseli-requeijao/",
+   "img": "/img/receitas/Creme-de-Batata-com-Toque-de-Requeijao-Cremoso-Sabor-Cheddar-Roseli.webp"
+  },
+  {
+   "title": "Croquete de Frango com Recheio de Queijos Cremosos com Cobertura Cremosa Sabor Requeijão R.Minas",
+   "url": "https://sulminaslaticinios.com.br/croquete-de-frango-com-recheio-de-queijos-cremosos-com-cobertura-cremosa-sabor-requeijao-r-minas/",
+   "img": "/img/receitas/Croquete-de-Frango-com-Recheio-de-Queijos-Cremosos-com-Cobertura-Cremosa-Sabor-Requeijao-R.Minas_.webp"
+  },
+  {
+   "title": "Cheesecake Cremoso com Recheio Duplo",
+   "url": "https://sulminaslaticinios.com.br/cheesecake-cremoso-com-recheio-duplo/",
+   "img": "/img/receitas/Cheesecake-Cremoso-com-Recheio-Duplo-de-Cobertura-Cremosa-Sabor-Requeijao-Sulminas.webp"
+  },
+  {
+   "title": "Lasanha Cremosa Três Queijos ao Forno Cobertura Cremosa Sabor Requeijão Sulminas",
+   "url": "https://sulminaslaticinios.com.br/lasanha-cremosa-tres-queijos-ao-forno-cobertura-cremosa-sabor-requeijao-sulminas/",
+   "img": "/img/receitas/Lasanha-Cremosa-Tres-Queijos-ao-Forno-Cobertura-Cremosa-Sabor-Requeijao-Sulminas.webp"
+  },
+  {
+   "title": "Escondidinho de Frango com Purê de Mandioquinha e Requeijão Requeijão Cremoso Roseli",
+   "url": "https://sulminaslaticinios.com.br/escondidinho-de-frango-com-pure-de-mandioquinha-e-requeijao-requeijao-cremoso-roseli/",
+   "img": "/img/receitas/Escondidinho-de-Frango-com-Pure-de-Mandioquinha-e-Requeijao-Requeijao-Cremoso-Roseli.webp"
+  },
+  {
+   "title": "Pãozinho Recheado com Cobertura Cremosa Sabor Cheddar Roseli e Bacon",
+   "url": "https://sulminaslaticinios.com.br/paozinho-recheado-com-cobertura-cremosa-sabor-cheddar-roseli-e-bacon/",
+   "img": "/img/receitas/Paozinho-Recheado-com-Cobertura-Cremosa-Sabor-Cheddar-Roseli-e-Bacon.webp"
+  },
+  {
+   "title": "Torta Mousse de Chocolate Branco com Creme Culinário Sabor Cream Cheese SulMinas",
+   "url": "https://sulminaslaticinios.com.br/torta-mousse-de-chocolate-branco-com-creme-culinario-sabor-cream-cheese-sulminas/",
+   "img": "/img/receitas/Torta-Mousse-de-Chocolate-Branco-com-Creme-Culinario-Sabor-Cream-Cheese-Sulminas-Especial-de-Pascoa.webp"
+  },
+  {
+   "title": "Bolinho de Batata com Cobertura Cremosa Sabor Requeijão SulMinas",
+   "url": "https://sulminaslaticinios.com.br/bolinho-de-batata-com-cobertura-cremosa-sabor-requeijao-sulminas/",
+   "img": "/img/receitas/Bolinho-de-Batata-com-Cobertura-Cremosa-Sabor-Requeijao-Sulminas-200g-Copo.webp"
+  },
+  {
+   "title": "Tortinha de Frutas com Creme Culinário Sabor Cream Cheese Sulminas",
+   "url": "https://sulminaslaticinios.com.br/tortinha-de-frutas-com-creme-culinario-sabor-cream-cheese-sulminas/",
+   "img": "/img/receitas/Tortinha-de-Frutas-com-Cream-Cheese.webp"
+  },
+  {
+   "title": "Pizza de Pão com Cobertura Cremosa Sabor Cheddar Roseli e Cobertura Cremosa Sabor Requeijão R.Minas",
+   "url": "https://sulminaslaticinios.com.br/pizza-de-pao-com-cobertura-cremosa-sabor-cheddar-roseli-e-cobertura-cremosa-sabor-requeijao-r-minas/",
+   "img": "/img/receitas/Pizza-de-Pao-com-Cobertura-Cremosa-Sabor-Cheddar-Roseli-e-Cobertura-Cremosa-Sabor-Requeijao-R.Minas-.webp"
+  },
+  {
+   "title": "Batata Recheada com Cobertura Cremosa Sabor Requeijão SulMinas e Bacon",
+   "url": "https://sulminaslaticinios.com.br/batata-recheada-com-cobertura-cremosa-sabor-requeijao-sulminas-e-bacon/",
+   "img": "/img/receitas/Batata-Recheada-com-Cobertura-Cremosa-Sabor-Requeijao-Sulminas-e-Bacon.webp"
+  },
+  {
+   "title": "Bruschetta de Tomate com Creme Culinário Sabor Cream Cheese Sulminas",
+   "url": "https://sulminaslaticinios.com.br/bruschetta-de-tomate-com-cream-cheese/",
+   "img": "/img/receitas/Bruschetta-de-Tomate-com-Cream-Cheese.webp"
+  },
+  {
+   "title": "Lasanha de Berinjela com Requeijão Cremoso Roseli",
+   "url": "https://sulminaslaticinios.com.br/lasanha-de-berinjela-com-requeijao-cremoso/",
+   "img": "/img/receitas/image1-17.webp"
+  },
+  {
+   "title": "Poke de Salmão com Cream Cheese Sul Minas",
+   "url": "https://sulminaslaticinios.com.br/poke-de-salmao-com-cream-cheese/",
+   "img": "/img/receitas/image2-16.webp"
+  },
+  {
+   "title": "Pure de Camarão Gratinado com Requeijão Cremoso Linha Profissional Roseli",
+   "url": "https://sulminaslaticinios.com.br/pure-de-camarao-gratinado/",
+   "img": "/img/receitas/image2-17.webp"
+  },
+  {
+   "title": "Receita de Mac and Cheese com Roseli Cheddar Zero Gordura Trans",
+   "url": "https://sulminaslaticinios.com.br/receita-de-mac-and-cheese-com-roseli-cheddar-zero-gordura-trans/",
+   "img": "/img/receitas/image1-2.webp"
+  },
+  {
+   "title": "Receita de Suflê de Queijo com Requeijão Cremoso Linha Profissional Roseli",
+   "url": "https://sulminaslaticinios.com.br/receita-de-sufle-de-queijo-com-requeijao-cremoso-linha-profissional-roseli/",
+   "img": "/img/receitas/image2-1.webp"
+  },
+  {
+   "title": "Receita de Pão de Alho Recheado com creme sabor Cream Cheese SulMinas",
+   "url": "https://sulminaslaticinios.com.br/receita-de-pao-de-alho-recheado-com-creme-sabor-cream-cheese-sulminas/",
+   "img": "/img/receitas/image2.webp"
+  },
+  {
+   "title": "Temaki com Creme Sabor Cream Cheese SulMinas",
+   "url": "https://sulminaslaticinios.com.br/temaki-com-creme-sabor-cream-cheese-sulminas/",
+   "img": "/img/receitas/image1-11.webp"
+  },
+  {
+   "title": "Receita de Pizza de Frigideira com Cobertura cremosa sabor 4 queijos Roseli SulMinas",
+   "url": "https://sulminaslaticinios.com.br/receita-de-pizza-de-frigideira-com-cobertura-cremosa-sabor-4-queijos-roseli-sulminas/",
+   "img": "/img/receitas/image1-1.webp"
+  },
+  {
+   "title": "Receita de Tacos de Carne com Cobertura Cremosa Sabor Cheddar Roseli",
+   "url": "https://sulminaslaticinios.com.br/receita-de-tacos-de-carne-com-cobertura-cremosa-sabor-cheddar-roseli/",
+   "img": "/img/receitas/image1.webp"
+  },
+  {
+   "title": "Empadinha com Requeijão Cremoso Linha Profissional Roseli",
+   "url": "https://sulminaslaticinios.com.br/empadinha-com-requeijao-cremoso/",
+   "img": "/img/receitas/image2-11.webp"
+  },
+  {
+   "title": "Sushi com Cream Cheese Sul Minas – Dia dos Namorados",
+   "url": "https://sulminaslaticinios.com.br/sushi-com-cream-cheese-dia-dos-namorados/",
+   "img": "/img/receitas/image1-9-768x432-1.webp"
+  },
+  {
+   "title": "Receita de Fogazza Roseli",
+   "url": "https://sulminaslaticinios.com.br/receita-de-fogazza/",
+   "img": "/img/receitas/image1-8.webp"
+  },
+  {
+   "title": "Lasanha de Frango com Cobertura cremosa Sabor Requeijão Sulminas",
+   "url": "https://sulminaslaticinios.com.br/lasanha-de-frango-com-requeijao/",
+   "img": "/img/receitas/Lasanha-de-Frango-com-Requeijao-.webp"
+  },
+  {
+   "title": "Verrine de Morango com Cream Cheese Sul Minas",
+   "url": "https://sulminaslaticinios.com.br/verrine-de-morango-com-cream-cheese/",
+   "img": "/img/receitas/imagem7.webp"
+  },
+  {
+   "title": "Coxinha de Frango com Linha Profissional Requeijão Roseli",
+   "url": "https://sulminaslaticinios.com.br/coxinha-de-frango-com-requeijao-roseli/",
+   "img": "/img/receitas/image2-6.webp"
+  },
+  {
+   "title": "Batata Frita com Cheddar e Bacon Roseli",
+   "url": "https://sulminaslaticinios.com.br/batata-frita-com-cheddar-e-bacon/",
+   "img": "/img/receitas/image1-5.webp"
+  },
+  {
+   "title": "Macarrão Com Cobertura Cremosa Sabor Requeijão Sulminas",
+   "url": "https://sulminaslaticinios.com.br/macarrao-com-requeijao/",
+   "img": "/img/receitas/image2-3-1.webp"
+  },
+  {
+   "title": "Hambúrguer Artesanal com Cheddar Roseli",
+   "url": "https://sulminaslaticinios.com.br/hamburguer-artesanal-com-cheddar-roseli/",
+   "img": "/img/receitas/image1-16.webp"
+  },
+  {
+   "title": "Torta de Frango Recheada com Requeijão Cremoso Roseli",
+   "url": "https://sulminaslaticinios.com.br/torta-de-frango-recheada-com-requeijao-cremoso-roseli/",
+   "img": "/img/receitas/image2-15.webp"
+  },
+  {
+   "title": "Batata Recheada no Forno com Creme Sabor Cream Cheese Sulminas, Cobertura Cremosa Sabor Cheddar Roseli e Bacon",
+   "url": "https://sulminaslaticinios.com.br/batata-recheada-no-forno-com-cream-cheese-sulminas-cheddar-roseli-e-bacon/",
+   "img": "/img/receitas/unnamed.webp"
+  },
+  {
+   "title": "Pizza de Forno com Linha Profissional Requeijão Roseli",
+   "url": "https://sulminaslaticinios.com.br/pizza-de-forno-com-requeijao-roselilinha-profissional/",
+   "img": "/img/receitas/image1-15.webp"
+  }
+ ],
+ "stores": [
+  "/img/lojas/LOGO_BORDA-JPEG.jpg",
+  "/img/lojas/Aramix-Atacado.jpg",
+  "/img/lojas/CAICO-FRIOS-baixa.jpg",
+  "/img/lojas/Galvao-Frios.jpg",
+  "/img/lojas/mixmateus.jpg",
+  "/img/lojas/Logomarca-Premium-baixa.jpg",
+  "/img/lojas/Logo-Assai.jpg",
+  "/img/lojas/LOGO-ATUAL-ATAKAREJO.jpg",
+  "/img/lojas/logo-cecoti-baixa.jpg",
+  "/img/lojas/LOGO-MAX-ATACADISTA-NOVA-baixa.jpg",
+  "/img/lojas/Logo-Oesa-baixa.jpg",
+  "/img/lojas/Logo-Villefort-baixa.jpg",
+  "/img/lojas/Marca-Mercantil-baixa.jpg",
+  "/img/lojas/images.png",
+  "/img/lojas/6ef6b46e-8307-45a3-9a7f-8040a3273c33_4.png",
+  "/img/lojas/fort.webp",
+  "/img/lojas/tenda.png",
+  "/img/lojas/supermecados-bh-logo-png_seeklogo-216362.png"
+ ]
+}
